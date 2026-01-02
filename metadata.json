@@ -1,0 +1,8 @@
+{
+  "name": "Vercel Topup BD - Pro",
+  "description": "A premium React-based gaming top-up platform with integrated Firebase auth, real-time order tracking, and Gemini-powered smart support.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
